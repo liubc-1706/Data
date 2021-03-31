@@ -7,6 +7,9 @@ import csv
 '''
     paper : <<Fast unfolding of communities in large networks>>
 '''
+'''
+PR测试
+'''
 
 def load_graph(path):
     G = collections.defaultdict(dict)
